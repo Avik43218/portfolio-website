@@ -1,4 +1,5 @@
 # Python environments/pycache
 .venv/
+__pycache__/
 source/__pycache__/
 source/users/__pycache__/
